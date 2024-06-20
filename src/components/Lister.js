@@ -151,10 +151,10 @@ setcount(counter);
           <Link
             target="_blank"
             className=" text-blue-700 font-nunito "
-            to="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/"
+            to="https://www.linkedin.com/in/ronak-bothra-9a7281164/"
           >
             {" "}
-            Dev Chaitanya tiwari &nbsp;
+            Ronak Bothra &nbsp;
           </Link>
 
           <img
@@ -172,9 +172,9 @@ setcount(counter);
           <Link
             target="_blank"
             className="text-sky-600 "
-            to="https://github.com/Dct-tcd"
+            to="https://github.com/Ronak55"
           >
-            &nbsp; Github \ Dct-tcd{" "}
+            &nbsp; Github{" "}
           </Link>
         </div>
       </div>
